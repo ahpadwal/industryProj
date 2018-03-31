@@ -28,4 +28,4 @@ while userIn==1:
     userIn=int(input("Do you want to continue? [1/0] "))
 print("Good Bye!")
 
-#made changes in CentOS
+#changed in CentOS
