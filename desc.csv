@@ -1,0 +1,3 @@
+Interface                      Status         Protocol Description
+Fa0/0                          up             up       Connect to CentOS
+Fa0/1                          admin down     down     Conencted to R2
